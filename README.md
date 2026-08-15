@@ -65,5 +65,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.tenor.com/t3u189Zqg-AAAAAC/power-chainsaw-man.gif" width="300" />
+  <img src="./gif.gif" width="300" />
 </div>
