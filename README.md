@@ -16,7 +16,8 @@
 - 🎓 I'm studying **Applied Mathematics and Computer Science** at **[MIPT](https://mipt.ru/)** (Class of 2029).
 - 🥇 Graduated high school with a **Gold Medal**.
 - 🐍 Completed **Yandex Lyceum** (Python) and studied **VR/AR Development** at Quantorium (1.5 years each).
-- 🎻 I graduated from music school (7 years of study) and still play the violin in my free time.
+- 🏆 Semifinalist of the **"Bolshaya Peremena"** national competition (3D modeling track) and winner of multiple 3D modeling contests.
+- 🎻 Graduated from music school (7 years of study) and became a **1st-degree laureate of the international competition "Austrian Motives"**. I still play the violin in my free time.
 - 🚀 I love trying new things in life and my current main goal is to build a strong career in **Data Science & ML**.
 - 📫 How to reach me: **[Telegram](https://t.me/satel1ite)**
 
@@ -62,8 +63,5 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Карточка Streak (работает стабильнее и показывает твои серии коммитов) -->
   <img src="https://streak-stats.demolab.com/?user=satel1ite&theme=tokyonight&hide_border=true" />
-  <!-- Карточка Top Langs (используем немного другой адрес) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satel1ite&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
