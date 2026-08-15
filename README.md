@@ -60,6 +60,17 @@
 
 ---
 
+### 🚀 Featured Projects
+
+* 🚌 **[Transport System](https://github.com/satel1ite/transport_system)** `C++20`
+  > A high-performance transport routing engine built with a strict 3-layer architecture. Applied **GRASP** principles and **GoF design patterns** (Strategy, Visitor, Facade, Factory). Features an extended **Dijkstra** algorithm handling transfer penalties, **0/1-BFS**, custom **C++20 Coroutines** for lazy k-shortest paths generation, and multithreaded route searching using `std::async`.
+* ♾️ **[Ordinals Arithmetic](https://github.com/satel1ite/Ordinals_arithmetic)** `Python`
+  > An algorithmic engine for ordinal arithmetic strictly below ε₀ using Cantor Normal Form. Designed a recursive tree data structure with fully overloaded operators for math operations (+, -, *, **, %). Features a custom grammar parser for string expressions and includes time/space complexity benchmarking with **NumPy** and **Matplotlib**.
+* 🧠 **[Algo & Data Structures](https://github.com/satel1ite/ALGO-CONTEST)** `C++` `Python`
+  > A comprehensive collection of advanced algorithmic problems and custom data structures implemented during MIPT courses and competitive programming contests.
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
