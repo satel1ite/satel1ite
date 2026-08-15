@@ -1,22 +1,26 @@
 <h1 align="center">Hi there, I'm Alexey 👋</h1>
 
-<!-- Анимированный печатающийся текст -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E91E63&center=true&vCenter=true&width=500&lines=Student+at+MIPT+AMCS'29;C%2B%2B+%26+Python+Developer;ML+%26+Data+Science+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E91E63&center=true&vCenter=true&width=500&lines=Student+at+MIPT+AMCS'29;Data+Science+%26+ML+Enthusiast;Python+%26+C%2B%2B+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
+<img align="right" src="./anime.gif" width="220" />
 
-- 🎓 I'm currently studying **Applied Mathematics and Computer Science** at **[MIPT](https://mipt.ru/)** (Class of 2029).
-- 💡 I love competitive programming, algorithmic tasks, and data science.
-- 🚀 My main languages are **C++** and **Python**.
-- 📫 How to reach me: **https://t.me/satel1ite**
+### 👨‍💻 About Me & Background
 
----
+- 📍 Currently based in **Moscow**.
+- 🎓 I'm studying **Applied Mathematics and Computer Science** at **[MIPT](https://mipt.ru/)** (Class of 2029).
+- 🥇 Graduated high school with a **Gold Medal**.
+- 🐍 Completed **Yandex Lyceum** (Python) and studied **VR/AR Development** at Quantorium (1.5 years each).
+- 🎻 I graduated from music school (7 years of study) and still play the violin in my free time.
+- 🚀 I love trying new things in life and my current main goal is to build a strong career in **Data Science & ML**.
+- 📫 How to reach me: **(https://t.me/satel1ite)**
+
+<br/>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -58,12 +62,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satel1ite&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satel1ite&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./gif.gif" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satel1ite&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satel1ite&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 </div>
