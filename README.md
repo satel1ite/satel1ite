@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" src="./anime.gif" width="220" />
+<img align="right" src="https://raw.githubusercontent.com/satel1ite/satel1ite/main/gif.gif" width="220" />
 
 ### 👨‍💻 About Me & Background
 
@@ -18,7 +18,7 @@
 - 🐍 Completed **Yandex Lyceum** (Python) and studied **VR/AR Development** at Quantorium (1.5 years each).
 - 🎻 I graduated from music school (7 years of study) and still play the violin in my free time.
 - 🚀 I love trying new things in life and my current main goal is to build a strong career in **Data Science & ML**.
-- 📫 How to reach me: **(https://t.me/satel1ite)**
+- 📫 How to reach me: **[Telegram](https://t.me/satel1ite)**
 
 <br/>
 
@@ -62,6 +62,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satel1ite&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satel1ite&layout=compact&theme=tokyonight&hide_border=true&v=1" />
+  <!-- Карточка Streak (работает стабильнее и показывает твои серии коммитов) -->
+  <img src="https://streak-stats.demolab.com/?user=satel1ite&theme=tokyonight&hide_border=true" />
+  <!-- Карточка Top Langs (используем немного другой адрес) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satel1ite&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
